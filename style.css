@@ -5,10 +5,15 @@ p {
 }
 
 #secondParagraph {
-    background-color: black;
+    background-color: rgb(10, 10, 10);
 }
 .commonParagraph {
     text-decoration: underline;
     font-size: 24px;
     
-}
+ a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+ }
